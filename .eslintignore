@@ -1,0 +1,13 @@
+/.cache
+/node_modules
+**/node_modules
+/.DS_Store
+**/dist
+**/assets/final
+
+yarn.lock
+
+**/*.d.ts
+**/assets.ts
+**/*.atlas
+**/*.json

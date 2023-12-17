@@ -1,0 +1,6 @@
+*.config.js
+*.json
+local-*.json
+local.json
+
+node_modules/**
